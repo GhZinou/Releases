@@ -1,8 +1,8 @@
 {
-    "latest_version": "1.0.0",
-    "mandatory": false,
+    "latest_version": "1.0.2",
+    "mandatory": true,
     "min_supported_version": "1.0.0",
-    "apk_url": "https://github.com/GhZinou/Releases/releases/download/klicwoo-app-v1.0.0/klicwoo.apk",
+    "apk_url": "https://github.com/GhZinou/Releases/releases/download/klicwoo-app-v1.0.2/klicwoo.apk",
     "notes": "",
-    "published_at": "2026-09-25"
+    "published_at": "2026-10-07"
   }
